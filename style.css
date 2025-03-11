@@ -1,0 +1,22 @@
+body{background-color: beige;
+}
+h1{background-color: burlywood;
+}
+p1{background-color:black;
+   color: antiquewhite;
+}
+p2{background-color:blueviolet;
+   color:chocolate;
+}
+p3{background-color: #000;
+   color:cornflowerblue ;
+}
+p4{background-color:blanchedalmond;
+   color: chartreuse;
+}
+.odd{color: cadetblue;
+}
+.even{color: burlywood;
+}
+font-family: sans-serif;
+
